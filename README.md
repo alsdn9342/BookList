@@ -1,14 +1,13 @@
 # Book List Application
 
->
->&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 ## Desciption
 
 It archives book properties including name, author, ISBN in MS SQL by operating as CRUD and shows Data table in browser.
 
->
->
+
+&nbsp;&nbsp;
 
 
 ## Technology stacks
