@@ -10,7 +10,7 @@ It archives book properties including name, author, ISBN in MS SQL by operating 
 
 ## Technology stacks
 
-**.NET Core(C#)**, **Razor Page**, **Tag Helper**, **JavaScript**,**Bootstrap**, **REST API**, **Datatabl API**, **Sweetalert API**, and **MS SQL** 
+**.NET Core(C#)**, **Razor Page**, **Tag Helper**, **JavaScript**, **Bootstrap**, **REST API**, **Datatabl API**, **Sweetalert API**, and **MS SQL** 
 
 &nbsp;&nbsp;
 
