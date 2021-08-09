@@ -1,20 +1,14 @@
-# YouTube Clone Application
+# Book List Application
 
 
 ## Desciption
 
-By using YouTube APIs, it dynamically retrieves the most popular vidoes and functions to search videos. Also, it archieves and delete my favorite videos interacting with SQL Server Management via Node.js and REST API.
+It Archives book properties including name, author, ISBN in MS SQL by operating as CRUD and shows Data table in browser.
 
 
 ## Technology stacks
->
-> ***FrontEnd:*** **React**, **material-ui**, **styled-components**, **react-router** for navBar based on **Responsive App**, **Firebase** for Authentication, **YouTube API**
->             , **Axios**
-> 
-> ***BakcEnd:***  **Node.js**, **RESTful APIs**, **SQL procedures**, **Postman**, **Express**, **body-parser**, **cors**, **nodemon**, **mssql**
->
 
-
+**.NET Core(C#)**, **Razor Page**, **Tag Helper**, **JavaScript**,**Bootstrap**, **REST API**, **Datatabl API**, **Sweetalert API**, and **MS SQL** 
 
 
 
