@@ -6,17 +6,13 @@
 
 It archives book properties including name, author, ISBN in MS SQL by operating as CRUD and shows Data table in browser.
 
-
-&nbsp;&nbsp;
-
+&nbsp;
 
 ## Technology stacks
 
 **.NET Core(C#)**, **Razor Page**, **Tag Helper**, **JavaScript**,**Bootstrap**, **REST API**, **Datatabl API**, **Sweetalert API**, and **MS SQL** 
 
->
-
-
+&nbsp;&nbsp;
 
 ### Database Context
 
@@ -33,9 +29,9 @@ It archives book properties including name, author, ISBN in MS SQL by operating 
             services.AddRazorPages().AddRazorRuntimeCompilation();
         }
 ```
->
->
->
+
+&nbsp;
+
 ### Datatable API
 
 ```js
@@ -105,14 +101,15 @@ function Delete(url) {
     });
 }
 ```
-
+&nbsp;
 ## Home page
->
+
+&nbsp;
+
 > ### Main page 
 ![Main Page](https://user-images.githubusercontent.com/65743649/128656254-ff4abd8a-8fc2-4207-9a16-7cfd9c376c8a.JPG)
 
->
->
+&nbsp;
 
 > ### Create new book.
 
@@ -172,8 +169,8 @@ function Delete(url) {
 }
 
 ```
->
->
+&nbsp;
+
 > ### Edit book
 
 ![Edit book](https://user-images.githubusercontent.com/65743649/128656451-0191e2a5-22f9-44c5-9e0c-602ae2e1d1c9.JPG)
@@ -234,11 +231,9 @@ function Delete(url) {
 }
 
 ```
->
->
 
->
->
+&nbsp;
+
 > ### Delete book
 
 ![Delete1](https://user-images.githubusercontent.com/65743649/128656583-944de03a-2097-491d-a655-ec6f4612665b.JPG)
