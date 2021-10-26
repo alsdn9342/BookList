@@ -288,7 +288,3 @@ namespace BookListRazor.Controllers
 
 ```
 
-
-
-
-
